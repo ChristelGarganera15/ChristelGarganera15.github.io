@@ -8,7 +8,7 @@ https://christelgarganera15.github.io
 
 This study focuses on the Corn Farmers Association of Panabo City, which helps corn growers improve farming, selling, and distribution through shared resources and training. However, their current manual paper-based system causes delays, errors, and difficulty in managing records and operations.
 To address this problem, the proposed AgriConnect System introduces a CRUD-based digital platform that manages farmer registrations, inventory, buyer orders, deliveries, and announcements. The system aims to improve communication, transparency, productivity, decision-making, and resource management while reducing paperwork, manual errors, and delivery delays.
-https://christelgarganera15.github.io
+https://github.com/ChristelGarganera15/ChristelGarganera15.github.io.git
 
 # HelpHub: A System for Managing Community Help Requests and Partnerships
 2nd Year Project
